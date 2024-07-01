@@ -1,0 +1,83 @@
+[
+    {
+      "id" : 0,
+      "title" : "A",
+      "author" : "B",
+      "numCopies" : 0
+    },{
+      "id" : 1,
+      "title" : "C",
+      "author" : "D",
+      "numCopies" : 1
+    },{
+      "id" : 2,
+      "title" : "E",
+      "author" : "F",
+      "numCopies" : 5
+    }, {
+      "id" : 3,
+      "title" : "Book1",
+      "author" : "John Barr",
+      "numCopies" : 3
+    },{
+      "id" : 4,
+      "title" : "Book2",
+      "author" : "Johnny Barr",
+      "numCopies" : 2
+    },{
+      "id" : 5,
+      "title" : "Book3",
+      "author" : "John Barr",
+      "numCopies" : 3
+    },{
+      "id" : 6,
+      "title" : "Feminists",
+      "author" : "Bell Hooks",
+      "numCopies" : 10
+    },{
+      "id" : 7,
+      "title" : "The Da Vinci Code",
+      "author" : "Dan Brown",
+      "numCopies" : 5
+    },{
+      "id" : 8,
+      "title" : "Divergent",
+      "author" : "Veronica Roth",
+      "numCopies" : 4
+    },{
+      "id" : 9,
+      "title" : "The Maze Runner",
+      "author" : "James Dashner",
+      "numCopies" : 0
+    },{
+      "id" : 10,
+      "title" : "Book10",
+      "author" : "Author10",
+      "numCopies" : 2
+    },{
+      "id" : 11,
+      "title" : "Book11",
+      "author" : "Author10",
+      "numCopies" : 1
+    },{
+      "id" : 12,
+      "title" : "Book12",
+      "author" : "Author12",
+      "numCopies" : 3
+    },{
+      "id" : 13,
+      "title" : "Book13",
+      "author" : "Author13",
+      "numCopies" : 0
+    },{
+      "id" : 14,
+      "title" : "Book14",
+      "author" : "Author14",
+      "numCopies" : 2
+    },{
+      "id" : 15,
+      "title" : "Book15",
+      "author" : "Author13",
+      "numCopies" : 1
+    }
+  ]

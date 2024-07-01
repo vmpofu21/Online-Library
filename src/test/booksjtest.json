@@ -1,0 +1,16 @@
+[ {
+    "id" : 0,
+    "title" : "A",
+    "author" : "B",
+    "numCopies" : 0
+  }, {
+    "id" : 1,
+    "title" : "C",
+    "author" : "D",
+    "numCopies" : 1
+  }, {
+    "id" : 3,
+    "title" : "E",
+    "author" : "F",
+    "numCopies" : 5
+  } ]

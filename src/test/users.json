@@ -1,0 +1,43 @@
+[
+    {
+      "id" : 1,
+      "name" : "Barr1",
+      "username" : "jbarr",
+      "password" : "password"
+    },  {
+      "id" : 2,
+      "name" : "Barr2",
+      "username" : "barr",
+      "password" : "psswrd"
+    },  {
+      "id" : 3,
+      "name" : "Barr3",
+      "username" : "jbarro",
+      "password" : "pass"
+    },  {
+      "id" : 4,
+      "name" : "Barr4",
+      "username" : "barro",
+      "password" : "word"
+    },  {
+      "id" : 5,
+      "name" : "Barr5",
+      "username" : "barrt",
+      "password" : "wrds"
+    },  {
+      "id" : 6,
+      "name" : "Vanessa",
+      "username" : "vmpofu",
+      "password" : "vmpofU_21"
+    },  {
+      "id" : 7,
+      "name" : "Vicky",
+      "username" : "Conrad",
+      "password" : "Vconrad/25"
+    },  {
+      "id" : 8,
+      "name" : "Cody",
+      "username" : "Carnes",
+      "password" : "Ccordy74"
+    }
+  ]
