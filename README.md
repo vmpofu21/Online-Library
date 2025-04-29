@@ -46,7 +46,7 @@ Which classes & methods do you need to implement for these use cases?
 1. - Library - Giovanni, Christain, Vanessa
 2. - Book - Giovanni
 3. - Librarian - Vicky
-4. - User - Vicky
+4. - User - Vicky,Vanessa
 
 Don't forget to use Test-Driven Development (TDD)
 1. Write Class and Method Function Headers
